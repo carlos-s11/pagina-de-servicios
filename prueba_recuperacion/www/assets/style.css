@@ -1,0 +1,42 @@
+.content-home { 
+    background: #1212c7;
+    padding: 200px;
+    border-radius: 200px;
+    margin: auto;
+    width: 102px;
+    color: white;
+    text-align: center;
+    font-size: 27px;
+    margin-top: 93px;
+ }
+.content-text {
+    width: 60%;
+    margin: 100px;
+    padding-bottom: 30px;
+    font-size: 25px;
+    border: 1px solid black;
+    text-align: center;
+    margin-top: 30px;
+}
+.bottom-servi {
+ width: 106px;
+background: #6868b1;
+padding: 20px;
+text-align: center;
+color: white !important;
+margin: auto;
+margin-top: 30px;
+font-size: 15px;
+
+}
+.content-servicios { 
+    background: #020207;
+    padding: 200px;
+    border-radius: 200px;
+    margin: auto;
+    width: 102px;
+    color: white;
+    text-align: center;
+    font-size: 27px;
+    margin-top: 93px;
+ }
